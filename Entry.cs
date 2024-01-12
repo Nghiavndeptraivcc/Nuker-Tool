@@ -93,19 +93,19 @@ namespace LithiumNukerV2
 		{
 			Core.StartupProperties startProperties = new Core.StartupProperties
 			{
-				MOTD = "fuck skids | verlox & russian heavy on top",
+				MOTD = "Lộ Token = Died | Lithium Nuker By me",
 				ColorRotation = 260,
 				SilentStart = true,
 				LogoString = Settings.Logo,
 				DebugMode = Settings.Debug,
 				Author = new Core.StartupAuthorProperties
 				{
-					Url = "verlox.cc & russianheavy.xyz",
-					Name = "verlox & russian heavy"
+					Url = "Nighthub.xyz & lmnstore.com",
+					Name = "LMNGAMING & Nuker Lithium"
 				},
 				Title = new Core.StartupConsoleTitleProperties
 				{
-					Text = "Lithium Nuker V2"
+						Text = "Night Nuker"
 				}
 			};
 			Entry.core.Start(startProperties);
